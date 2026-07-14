@@ -1,0 +1,6 @@
+{
+  "name": "Mother of Ice-cream Kolkata",
+  "description": "Premium event catering in Kolkata offering 13 handcrafted ice cream flavors and live mocktail/mojito bar service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
